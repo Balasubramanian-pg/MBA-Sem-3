@@ -1,0 +1,28 @@
+Based on the syllabus provided, here are 22 topics that are highly likely to come in the exam:
+
+    History and Evolution of Business Intelligence
+    Difference between Information and Intelligence
+    Business Intelligence Value Chain
+    Benefits of Business Intelligence
+    Business Intelligence Segments
+    Creating Business Intelligence Environment
+    Business Intelligence Platform
+    Roles of Business Intelligence in Modern Business
+    Types of Business Intelligence Tools
+    Enterprise Business Intelligence
+    Information Workers
+    Business Intelligence Lifecycle
+    Human Factors in BI Implementation
+    BI Strategy, Objectives, and Deliverables
+    Building a Transformation Roadmap
+    Critical Challenges for Business Intelligence Success
+    Business Analysis and Data Standardization
+    Planning the BI Projects
+    Business Intelligence Application Development Methodology
+    Business Intelligence Components and Architecture
+    Functional Areas of BI Tools
+    Contemporary Developments and Emerging Trends in Business Intelligence: Artificial Intelligence, Automation, Storytelling, Data Governance, Data Privacy, Cybersecurity, Natural Language Processing
+
+These topics cover a broad range of essential concepts related to business intelligence, including its history, value chain, implementation, challenges, and contemporary developments. However, it's important to note that the specific exam questions will ultimately depend on the instructor's preferences and the depth of coverage in the course.
+If I were you, I would start from the bottom, and work my way up.
+All the best
