@@ -24,5 +24,15 @@ Based on the syllabus provided, here are 22 topics that are highly likely to com
     Contemporary Developments and Emerging Trends in Business Intelligence: Artificial Intelligence, Automation, Storytelling, Data Governance, Data Privacy, Cybersecurity, Natural Language Processing
 
 These topics cover a broad range of essential concepts related to business intelligence, including its history, value chain, implementation, challenges, and contemporary developments. However, it's important to note that the specific exam questions will ultimately depend on the instructor's preferences and the depth of coverage in the course.
-If I were you, I would start from the bottom, and work my way up.
+Here is a fictional table assigning weightages to the six modules based on the 22 topics provided:
+Module	Weightage
+MODULE 1: BUSINESS INTELLIGENCE AN INTRODUCTION	5%
+MODULE 2: BUSINESS INTELLIGENCE ESSENTIALS & TYPES	10%
+MODULE 3: BUSINESS INTELLIGENCE LIFE CYCLE	20%
+MODULE 4: BUSINESS INTELLIGENCE ISSUES AND CHALLENGES	15%
+MODULE 5: IMPLEMENTING BUSINESS INTELLIGENCE	20%
+MODULE 6: CONTEMPORARY DEVELOPMENTS AND EMERGING TRENDS	5%
+
+Please note that these weightages are fictional and assigned based on equal distribution across the modules. (Something that I would follow, you don't have to follow this)
+If I were you, I would start from the bottom, and work my way up, and pay the most attention to unit 4,3 & 1.
 All the best
